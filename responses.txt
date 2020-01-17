@@ -1,1 +1,2 @@
+The web is different than the internet in that the internet is a much larger global network of millions of networks, while the web is a tool used to access the internet.
 
